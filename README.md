@@ -1,2 +1,2 @@
 # 3I001
-JAVA
+Programmation concurrente
